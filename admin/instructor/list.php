@@ -11,7 +11,7 @@
             <h2 class="page-header">List of Instructors <a href="index.php?view=add" class="btn btn-primary btn-xs  ">  <i class="fa fa-plus-circle fw-fa"></i> New</a>  </h2>
        		</div>
        		<div class="col-lg-4" >
-       			<img style="float:right; width:140px; height: 140px;" src="<?php echo web_root; ?>img/sfalogo.png" >
+
        		</div>
        		</div>
         	<!-- /.col-lg-12 -->

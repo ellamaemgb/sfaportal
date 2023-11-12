@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-xs-12">
           <h2 class="page-header">
-            <i class="fa fa-globe"></i>Green Valley College Foundation INC.
+            <i class="fa fa-globe"></i>Saint Francis Academy
             <small class="pull-right">Date: <?php echo date('m/d/Y'); ?></small>
           </h2>
         </div>

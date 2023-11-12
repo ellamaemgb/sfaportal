@@ -10,7 +10,7 @@
             <h1 class="page-header">List of Courses/Year  <a href="index.php?view=add" class="btn btn-primary btn-xs  ">  <i class="fa fa-plus-circle fw-fa"></i> New</a>  </h1>
        		</div>
        		<div class="col-lg-6" >
-       			<img style="float:right; width:140px; height: 140px;" src="<?php echo web_root; ?>img/sfalogo.png" >
+       		
        		</div>
        		</div>
         	<!-- /.col-lg-12 -->

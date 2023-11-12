@@ -11,7 +11,7 @@
             <h1 class="page-header">New Enrollees</h1>
        		</div>
        		<div class="col-lg-6" >
-       			<img style="float:right; width:140px; height: 140px;" src="<?php echo web_root; ?>img/sfalogo.png" >
+       			
        		</div>
        		</div>
         	<!-- /.col-lg-12 -->
@@ -32,7 +32,7 @@
 				  		<th>Contact No.</th>
 				  		<!-- <th>Email Address</th> -->
 				  		<th>Status</th>
-				  		<th>COurse</th>
+				  		<th>Course</th>
 				  		<th width="14%" >Action</th>
 				 
 				  	</tr>	

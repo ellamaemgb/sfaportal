@@ -10,7 +10,7 @@
         <!--=============== CSS ===============-->
         <link rel="stylesheet" href="assets/css/styles.css">
 
-        <title>Responsive plants website - Bedimcode</title>
+        <title>SFA</title>
     </head>
     <body>
         <!--==================== HEADER ====================-->
@@ -28,17 +28,13 @@
                         <li class="nav__item">
                             <a href="#about" class="nav__link">About</a>
                         </li>
-                        <li class="nav__item">
-                            <a href="#products" class="nav__link">Products</a>
-                        </li>
-                        <li class="nav__item">
-                            <a href="#faqs" class="nav__link">FAQs</a>
-                        </li>
+                       
+            
                         <li class="nav__item">
                             <a href="#contact" class="nav__link">Contact Us</a>
                         </li>
                         <li class="nav__item">
-                        <a href="index.php?q=enrol" class="nav_item">Student</a>
+                        <a href="index.php?q=enrol" class="nav_item" style="color: white;">Student</a>
                         </li>
                     </ul>
                 </div>
@@ -85,27 +81,22 @@
                         </h2>
 
                         <p class="about__description">
-                            We have over 500 unbiased reviews and our customers 
-                            trust our plant process and delivery service every time
+                        Education: Schools provide students with the knowledge and 
+                        skills needed to succeed in life.
+
                         </p>
 
                         <div class="about__details">
                             <p class="about__details-description">
                                 <i class="ri-checkbox-fill about__details-icon"></i>
-                                We always deliver on time.
+                            
+                                Personal Growth: Schools foster personal development, helping students build self-confidence, critical thinking abilities,<br> problem-solving skills, and a sense of responsibility.
                             </p>
                             <p class="about__details-description">
                                 <i class="ri-checkbox-fill about__details-icon"></i>
-                                We give you guides to protect and care for your plants.
+                                Social Skills: Schools offer a social environment where students interact, learn to collaborate, and develop important social skills. They also promote diversity and tolerance, preparing students for a multicultural world.
                             </p>
-                            <p class="about__details-description">
-                                <i class="ri-checkbox-fill about__details-icon"></i>
-                                We always come over for a check-up after sale.
-                            </p>
-                            <p class="about__details-description">
-                                <i class="ri-checkbox-fill about__details-icon"></i>
-                                100% money back guaranteed.
-                            </p>
+                            
                         </div>
 
                         <a href="index.php?q=enrol" class="button--link button--flex">
@@ -194,42 +185,11 @@
             </section>
 
             <!--==================== QUESTIONS ====================-->
-            <section class="questions section" id="faqs">
-                <section class="contact section container" id="contact">                
+            <section class="questions section" id="faqs" >
+                <section class="contact section container" id="contact" style="margin-left: 250px;">                
                     <div class="contact__container grid">
                         <div class="contact__box">
-                            <h2 class="section__title">
-                             Contact
-                            </h2>
-    
-                            <div class="contact__data">
-                                <div class="contact__information">
-                                    <h3 class="contact__subtitle">Call us for instant support</h3>
-                                    <span class="contact__description">
-                                        <i class="ri-phone-line contact__icon"></i>
-                                        +999 888 777
-                                    </span>
-                                </div>
-    
-                                <div class="contact__information">
-                                    <h3 class="contact__subtitle">Write us by mail</h3>
-                                    <span class="contact__description">
-                                        <i class="ri-mail-line contact__icon"></i>
-                                        user@email.com
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-    
-                        
-                    </div>
-                </section>
-            </section>
-
-         
-
-        <!--==================== FOOTER ====================-->
-        <footer class="footer section">
+                        <footer class="footer section">
             <div class="footer__container container grid">
                 <div class="footer__content">
                     <a href="#" class="footer__logo">
@@ -240,13 +200,13 @@
 
                    
 
-                <div class="footer__content">
+                <div class="footer__content" >
                     <h3 class="footer__title">Our Address</h3>
 
                     <ul class="footer__data">
-                        <li class="footer__information">1234 - Peru</li>
-                        <li class="footer__information">La Libertad - 43210</li>
-                        <li class="footer__information">123-456-789</li>
+                        <li class="footer__information" style="margin-left: -70px;">Poblacion, Mabini, Batangas </li>
+        
+
                     </ul>
                 </div>
 
@@ -254,17 +214,17 @@
                     <h3 class="footer__title">Contact Us</h3>
 
                     <ul class="footer__data">
-                        <li class="footer__information">+999 888 777</li>
+                        <li class="footer__information" style="margin-left: -15px;">0905298862</li>
+                        <li class="footer__information" style="margin-left: -15px;">09177205340</li>
                         
                         <div class="footer__social">
-                            <a href="https://www.facebook.com/" class="footer__social-link">
-                                <i class="ri-facebook-fill"></i>
+                            <a href="https://www.facebook.com/sfamabini1967?mibextid=ZbWKwL" class="footer__social-link">
+                                <i style="margin-left: 10px;" class="fa fa-facebook"></i>
                             </a>
-                            <a href="https://www.instagram.com/" class="footer__social-link">
-                                <i class="ri-instagram-line"></i>
+                            <a href="sfamb1967@yahoo.com.ph" class="footer__social-link">
+                                <i class="fa fa-envelope"></i>
                             </a>
-                            <a href="https://twitter.com/" class="footer__social-link">
-                                <i class="ri-twitter-fill"></i>
+                            
                             </a>
                         </div>
                     </ul>
@@ -275,7 +235,7 @@
                   
                     </h3>
 
-                    <div class="footer__cards">
+                    <div style="margin-left: 24px;" class="footer__cards">
                     ©SAINT FRANCIS ACADEMY. All rigths reserved
                     </div>
                 </div>
@@ -283,6 +243,15 @@
 
             
         </footer>
+                        
+                    </div>
+                </section>
+            </section>
+
+         
+
+        <!--==================== FOOTER ====================-->
+       
         
         <!--=============== SCROLL UP ===============-->
         <a href="#" class="scrollup" id="scroll-up"> 

@@ -29,17 +29,7 @@ $cur = $mydb->loadSingleResult();
               
   </div>
   </div>
-  <div class="row">
-    <div class="col-lg-12">
-  	<div class="col-md-6">
-  		<h4>Course/Year :<?php echo $cur->COURSE_NAME.'-'.$res->YEARLEVEL;?> </h4>
-  	</div>
-  	<div class="col-md-6">
-  		<h4>Department :<?php echo $cur->DEPARTMENT_NAME . ' [ '. $cur->DEPARTMENT_DESC. ' ]';?> </h4>
-  	</div>
-  </div>
-	
-</div>
+  
 <div class="row">
       <div class="col-lg-3"> 
             <h3 class="page-header">Student Subjects </h3>

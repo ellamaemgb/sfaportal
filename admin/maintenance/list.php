@@ -10,7 +10,7 @@
             <h1 class="page-header">Set the Current Semester  </h1>
        		</div>
        		<div class="col-lg-6" >
-       			<img style="float:right; width:140px; height: 140px;" src="<?php echo web_root; ?>img/logonbg.png" >
+       			
        		</div>
        		</div>
         	<!-- /.col-lg-12 -->

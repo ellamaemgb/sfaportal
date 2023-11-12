@@ -79,7 +79,7 @@ if (isset($_SESSION['admingvCart'])){
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand"  href="<?php echo web_root; ?>admin/index.php" > 
-                <img src="assets/img/sfalogo.png" height="23">
+                
                 Sain Francis Academy</a>
             </div>
             <!-- /.navbar-header -->
